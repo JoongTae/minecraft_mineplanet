@@ -1,1 +1,1 @@
-This is source file for enjoying mineplanet server in minecraft.
+마인플래닛 설치 파일 및 모드 파일
