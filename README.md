@@ -1,1 +1,1 @@
-This is source file for mineplanet server in minecraft.
+This is source file for enjoying mineplanet server in minecraft.
